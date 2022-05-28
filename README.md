@@ -1,6 +1,11 @@
-# Used Car Price Prediction Model
 
+<h1 align="center"> Used Car Price Prediction Model.... <img src="https://user-images.githubusercontent.com/77922626/170837204-39da5f79-674b-43d9-b5fd-261e90187ec0.png" width="75px" height="33px"/></h1>
+
+ <p align="center"> <a href="https://engage-ml-model.herokuapp.com/">Link to the web-application</a></p>
 <h2>Overview of the project</h2>
+  <svg class="bi" fill="currentColor" style="width:50%;height:auto">
+    <use xlink:href="/modules/bootstrap-icons/icons/bootstrap-icons.svg#arrow-left"/>
+</svg>
 <ul>
   <li>Used Car price prediction project is a machine learning model built during Microsoft Engage 2022 program.</li>
   <li>It is a prediction model which can predict the price of the used car according to the attributes entered by the user.</li>
@@ -18,7 +23,7 @@
   </li> <br>
   <li>Download git on your system
     <br>
-     <a href="Git - Downloading Package (git-scm.com)">Click Here</a>
+     <a href="https://git-scm.com/downloads">Click Here</a>
   </li> <br>
   <li>Install pip using the following commands on the powershell
     <br> <br>
@@ -29,7 +34,7 @@
   </li> <br>
   <li>Go to the development_files inorder to install the requirements
     <br> <br>
-     <code>open cd deployment_files</code>
+     <code>cd deployment_files</code>
    </li> <br>
   <li>Install the requirements using pip command
     <br> <br>
@@ -39,7 +44,7 @@
     <br> <br>
      <code>cd ..</code>
   </li> <br>
-  <li>Run the app.py file as it is the main file which will provide the link to the localhost
+  <li>Run the app.py file as it is the main file which will provide the link of the localhost
     <br> <br>
     <code>python app.py</code></li> 
      <br>
@@ -62,4 +67,3 @@
 After clicking on the predict button the output will be shown like this in the pre-existing box:-</p>
 
 <img src="https://user-images.githubusercontent.com/77922626/170829667-91ce4d5d-740b-4c31-bc30-f32b6dddb9c7.png" width="800" height="400" />
-

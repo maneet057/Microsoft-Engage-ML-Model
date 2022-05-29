@@ -10,7 +10,7 @@
   <li>Used Car price prediction project is a machine learning model built during Microsoft Engage 2022 program.</li>
   <li>It is a prediction model which can predict the price of the used car according to the attributes entered by the user.</li>
   <li>Random forest model is used to predict the price of the car.</li>
-  <li>The accuracy of this prediction model is approximately 93.28%.</li>
+  <li>The score of this prediction model is approximately 93.28%.</li>
   <li>A responsive web-application is build inorder to take the inputs from the user.</li>
 </ul>
 

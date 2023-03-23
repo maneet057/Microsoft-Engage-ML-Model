@@ -1,7 +1,7 @@
 
 <h1 align="center"> Used Car Price Prediction Model.... <img src="https://user-images.githubusercontent.com/77922626/170837204-39da5f79-674b-43d9-b5fd-261e90187ec0.png" width="75px" height="33px"/></h1>
 
- <p align="center"> <a href="https://engage-ml-model.herokuapp.com/">Link to the web-application</a></p>
+ <!--<p align="center"> <a href="https://engage-ml-model.herokuapp.com/">Link to the web-application</a></p>-->
 <h2>Overview of the project</h2>
   <svg class="bi" fill="currentColor" style="width:50%;height:auto">
     <use xlink:href="/modules/bootstrap-icons/icons/bootstrap-icons.svg#arrow-left"/>
